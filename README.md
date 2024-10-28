@@ -1,5 +1,7 @@
 # THIS DOCUMENT IS A MARKDOWN VERSION OF THE ORIGINAL README!
 
+We are not the original authors of this program, we are just preserving the documentation on this really obscure tool!
+
 ## Multer 2.1
 
 by Lamesoft / Lamers
